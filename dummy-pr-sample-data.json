@@ -1,0 +1,22 @@
+{
+  "title": "Dummy PR Sample",
+  "description": "This file contains placeholder data for a test pull request.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Sample Item A",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "name": "Sample Item B",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "name": "Sample Item C",
+      "status": "in_progress"
+    }
+  ],
+  "created_for": "dummy pull request"
+}
